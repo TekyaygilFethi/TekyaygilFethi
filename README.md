@@ -3,7 +3,7 @@
 **About Me**
 ```python
 Fethi = {
-  "title": {ÇiçekSepeti:"Junior Backend Developer"},
+  "title": {"Global AI Hub":"Technical Specialist for AI Team"},
   "communities": ["Global AI Hub","Data Science Earth"],
   "website": "https://www.fethitekyaygil.com"
 }
