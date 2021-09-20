@@ -3,7 +3,7 @@
 **About Me**
 ```python
 Fethi = {
-  "title": {"Global AI Hub":"Technical Specialist for AI Team"},
+  "title": {"Global AI Hub":"AI Expert"},
   "website": "https://www.fethitekyaygil.com"
 }
 ```
