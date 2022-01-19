@@ -1,9 +1,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.gif)
+
 
 **About Me**
 ```python
 Fethi = {
-  "title": {"Global AI Hub":"AI Tean Lead"},
+  "title": {"Global AI Hub":"AI Team Lead"},
   "website": "https://www.fethitekyaygil.com"
 }
 ```
