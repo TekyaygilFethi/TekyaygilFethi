@@ -1,7 +1,6 @@
 
-
+![entrance](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
-
 
 **About Me**
 ```python
