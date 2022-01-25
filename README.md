@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
 - 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning, Flutter, blockchain and Solidity
+- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning, Flutter, Blockchain and Solidity
 - 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
 
