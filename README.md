@@ -4,7 +4,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
+- 👨🏽‍💻  I’m currently Backend Developer
 - 🌱 I’m currently developing .NET Core projects and Data Science projects
 - 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning, Flutter, Blockchain and Solidity
 - 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
@@ -37,6 +37,12 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
   </kbd>
+ <kbd>
+  <kbd>Blockchain</kbd>
+   <br>
+  <br>
+  <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
+ </kbd>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
