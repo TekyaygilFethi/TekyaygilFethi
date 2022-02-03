@@ -2,7 +2,6 @@
  <img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif">
  </a>
 
-**About Me!**
 
 - 👨🏽‍💻  I’m currently Backend Developer
 - 🌱 I’m currently developing .NET Core projects and Data Science projects
