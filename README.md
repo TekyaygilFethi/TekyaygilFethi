@@ -3,7 +3,7 @@
  </a>
 
 
-- 👨🏽‍💻  I’m currently Backend Developer (.NET Core)
+- 👨🏽‍💻  I’m currently working as a Backend Developer (.NET Core)
 - 🌱 I’m currently developing Data Science, Solidity and Web3 projects
 - 🤔 My interest lies in Back-End Web Development, Data Science, Machine Learning, Deep Learning, Flutter, Blockchain and Solidity
 - 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
