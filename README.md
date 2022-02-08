@@ -3,9 +3,9 @@
  </a>
 
 
-- 👨🏽‍💻  I’m currently Backend Developer
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning, Flutter, Blockchain and Solidity
+- 👨🏽‍💻  I’m currently Backend Developer (.NET Core)
+- 🌱 I’m currently developing Data Science, Solidity and Web3 projects
+- 🤔 My interest lies in Back-End Web Development, Data Science, Machine Learning, Deep Learning, Flutter, Blockchain and Solidity
 - 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
 
@@ -114,9 +114,13 @@
 -->
 <hr>
 <h2 align="center">Now Playing</h2>
+ <a href ="https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq">
 <p align="center">
+
 <img src="https://novatorem-tekyaygilfethi.vercel.app/api/spotify" alt="Spotify Now Playing" width="550" />
+
 </p>
+  </a>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
