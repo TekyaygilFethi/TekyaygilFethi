@@ -59,6 +59,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   </kbd>
   <br>
@@ -70,6 +71,16 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  </kbd>
+   <kbd>
+    <kbd>Big Data</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://user-images.githubusercontent.com/28951869/194784132-cd39abda-9ed7-4081-b1fc-eaf3e6082b58.png" />
+    <img width="30px" src="https://user-images.githubusercontent.com/28951869/194784245-e80e671b-10aa-49cc-9508-e8222a0b2137.svg" />
+    <img width="30px" src="https://user-images.githubusercontent.com/28951869/194784260-49c68ae3-d575-4f5b-b944-3f41c18e6815.png" />
+    <img width="30px" src="https://user-images.githubusercontent.com/28951869/194784309-e85783d0-4216-43e5-bf20-41f7fff7cfba.png" />
+
   </kbd>
  
   <kbd>
