@@ -3,8 +3,9 @@
  </a>
 
 
-- 👨🏽‍💻  I’m currently working as a Backend Developer (.NET Core) at <a href="https://github.com/UserVision">UserVision</a>
+- 👨🏽‍💻 I’m currently working as a Backend Developer (.NET Core) at <a href="https://github.com/UserVision">UserVision</a>
 - 🌱 I’m currently developing Data Science, Solidity and Web3 projects
+- 🧑‍🏫 Currently giving courses about Big Data Hadoop, Cloudera, Spark, Hive, HBase, Python, Machine Learning, Deep Learning and Data Science
 - 🤔 My interest lies in Back-End Web Development, Data Science, Machine Learning, Deep Learning, Flutter, Blockchain and Solidity
 - 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
