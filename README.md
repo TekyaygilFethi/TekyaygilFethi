@@ -3,7 +3,7 @@
  </a>
 
 
-- 👨🏽‍💻 I’m currently working as a Backend Developer (.NET Core) at ÇiçekSepeti / Mizu
+- 👨🏽‍💻 I’m currently working as a Backend Developer (.NET Core) at AtlasTek
 - 🌱 I’m currently developing Data Science, Solidity and Web3 projects
 - 🧑‍🏫 Currently giving courses about Big Data Hadoop, Cloudera, Spark, Hive, HBase, Python, Machine Learning, Deep Learning and Data Science
 - 🤔 My interest lies in Back-End Web Development, Data Science, Machine Learning, Deep Learning, Big Data, Blockchain and Solidity
