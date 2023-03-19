@@ -112,13 +112,3 @@
 <!--
 [![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
 -->
-<h2 align="center">Now Playing</h2>
- <a href ="https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq">
-<p align="center">
-
-<img src="https://novatorem-tekyaygilfethi.vercel.app/api/spotify" alt="Spotify Now Playing" width="550" />
-
-</p>
-  </a>
-  
-  <hr>
