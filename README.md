@@ -2,7 +2,7 @@
  <img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif">
  </a>
 
-
+- 👨‍💼 I'm co-founder of <a href="https://finswipe.io/">FinSwipe</a>
 - 👨🏽‍💻 I’m currently working as a Backend Developer (.NET Core) at AtlasTek
 - 🌱 I’m currently developing Data Science, Solidity and Web3 projects
 - 🧑‍🏫 Currently giving courses about Big Data Hadoop, Cloudera, Spark, Hive, HBase, Python, Machine Learning, Deep Learning and Data Science
